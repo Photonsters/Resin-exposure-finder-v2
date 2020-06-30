@@ -19,4 +19,4 @@ resin exposure finder tool for UV MSLA 3D printers
 - PEOPOLY - Phenom, Noir(K), L
 - NOVA3D - Elfin, Bene
 - PHROZEN - Transform, Sonic(K), Sonic Mini(K)
-- ANYCUBIC- PhotonClassic, PhotonS/Fauxton, Zero
+- ANYCUBIC - PhotonClassic, PhotonS/Fauxton, Zero
